@@ -225,4 +225,4 @@ Press Shift + F6 → Run Project
 
 This project is created for academic purposes under Galgotias University / B.Tech CSE, and can be used, submitted, or extended for learning.
 
-✨ Thank You for Checking Out the Project!
+ Thank You for Checking Out the Project!
